@@ -1,4 +1,5 @@
 # Calculator web app demo project
+# initials NKJ
 
 Calculator web application demo project, used for various 
 training classes around continuous delivery by Praqma.
