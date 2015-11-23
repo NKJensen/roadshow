@@ -38,8 +38,8 @@ public class TestCalculatorModel {
     @Test
     public void addTestOneParameter() {
         Number number = model.add(new Double(2.5));
-        assertEquals(2.5d, number.doubleValue(), 2.5d);
-        assertEquals(2d, number.doubleValue(), 0.4d);
+        assertEquals(2.5d, number.doubleValue(), 0.1d);
+        assertEquals(2d, number.doubleValue(), 0.51d);
     }
 
     @Test
