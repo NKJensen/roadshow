@@ -39,6 +39,7 @@ public class TestCalculatorModel {
     public void addTestOneParameter() {
         Number number = model.add(new Double(2.5));
         assertEquals(2.5d, number.doubleValue(), 2.5d);
+        assertTrue(false);
     }
 
     @Test
