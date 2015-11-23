@@ -1,3 +1,4 @@
+Crash here please
 apply plugin: 'java'
 apply plugin: 'maven'
 apply plugin: 'checkstyle'
